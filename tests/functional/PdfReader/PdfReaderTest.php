@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\functional\PdfReader;
+namespace mailstreetdevelopment\fpdi\functional\PdfReader;
 
 use PHPUnit\Framework\TestCase;
 use Prophecy\Exception\InvalidArgumentException;

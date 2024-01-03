@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\unit\PdfParser;
+namespace mailstreetdevelopment\fpdi\unit\PdfParser;
 
 use PHPUnit\Framework\TestCase;
 use setasign\Fpdi\PdfParser\StreamReader;

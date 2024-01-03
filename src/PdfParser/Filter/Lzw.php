@@ -8,7 +8,7 @@
  * @license   http://opensource.org/licenses/mit-license The MIT License
  */
 
-namespace setasign\Fpdi\PdfParser\Filter;
+namespace mailstreetdevelopment\fpdi\PdfParser\Filter;
 
 /**
  * Class for handling LZW encoded data

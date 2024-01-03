@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\functional;
+namespace mailstreetdevelopment\fpdi\functional;
 
 use setasign\Fpdi\PdfParser\Type\PdfArray;
 use setasign\Fpdi\PdfParser\Type\PdfBoolean;

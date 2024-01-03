@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\unit\PdfParser;
+namespace mailstreetdevelopment\fpdi\unit\PdfParser;
 
 /**
  * This stream wrapper is created to simulate a stream wrapper that is not seekable (while its metadata report that

@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\visual\Tcpdf;
+namespace mailstreetdevelopment\fpdi\visual\Tcpdf;
 
 use setasign\Fpdi\PdfReader\PageBoundaries;
 use setasign\Fpdi\Tcpdf\Fpdi;

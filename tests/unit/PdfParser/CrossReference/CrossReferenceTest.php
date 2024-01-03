@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\unit\PdfParser\CrossReference;
+namespace mailstreetdevelopment\fpdi\unit\PdfParser\CrossReference;
 
 use PHPUnit\Framework\TestCase;
 use setasign\Fpdi\PdfParser\CrossReference\CrossReference;

@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\functional\LinkHandling;
+namespace mailstreetdevelopment\fpdi\functional\LinkHandling;
 
 use setasign\Fpdi\Tfpdf\Fpdi;
 

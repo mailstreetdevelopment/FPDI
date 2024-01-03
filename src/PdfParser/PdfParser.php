@@ -8,7 +8,7 @@
  * @license   http://opensource.org/licenses/mit-license The MIT License
  */
 
-namespace setasign\Fpdi\PdfParser;
+namespace mailstreetdevelopment\fpdi\PdfParser;
 
 use setasign\Fpdi\PdfParser\CrossReference\CrossReference;
 use setasign\Fpdi\PdfParser\CrossReference\CrossReferenceException;

@@ -8,7 +8,7 @@
  * @license   http://opensource.org/licenses/mit-license The MIT License
  */
 
-namespace setasign\Fpdi\Tfpdf;
+namespace mailstreetdevelopment\fpdi\Tfpdf;
 
 use setasign\Fpdi\FpdfTplTrait;
 

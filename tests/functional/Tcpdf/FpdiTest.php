@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\functional\Tcpdf;
+namespace mailstreetdevelopment\fpdi\functional\Tcpdf;
 
 use PHPUnit\Framework\TestCase;
 use setasign\Fpdi\PdfParser\CrossReference\CrossReferenceException;

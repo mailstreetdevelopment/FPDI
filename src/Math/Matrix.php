@@ -8,7 +8,7 @@
  * @license   http://opensource.org/licenses/mit-license The MIT License
  */
 
-namespace setasign\Fpdi\Math;
+namespace mailstreetdevelopment\fpdi\Math;
 
 /**
  * A simple 2D-Matrix class

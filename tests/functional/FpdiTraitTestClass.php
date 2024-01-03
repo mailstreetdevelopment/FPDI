@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\functional;
+namespace mailstreetdevelopment\fpdi\functional;
 
 use setasign\Fpdi\FpdfTrait;
 use setasign\Fpdi\FpdiTrait;

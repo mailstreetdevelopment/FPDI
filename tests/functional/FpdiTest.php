@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\functional;
+namespace mailstreetdevelopment\fpdi\functional;
 
 use PHPUnit\Framework\TestCase;
 use setasign\Fpdi\Fpdi;

@@ -8,7 +8,7 @@
  * @license   http://opensource.org/licenses/mit-license The MIT License
  */
 
-namespace setasign\Fpdi\Tcpdf;
+namespace mailstreetdevelopment\fpdi\Tcpdf;
 
 use setasign\Fpdi\FpdiException;
 use setasign\Fpdi\FpdiTrait;

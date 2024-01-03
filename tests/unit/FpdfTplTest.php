@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\unit;
+namespace mailstreetdevelopment\fpdi\unit;
 
 use PHPUnit\Framework\TestCase;
 use setasign\Fpdi\FpdfTpl;

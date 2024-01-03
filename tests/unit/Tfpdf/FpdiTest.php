@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\unit\Tfpdf;
+namespace mailstreetdevelopment\fpdi\unit\Tfpdf;
 
 use setasign\Fpdi\Tfpdf\Fpdi;
 use setasign\Fpdi\unit\FpdiTraitTest;

@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\visual\Tfpdf;
+namespace mailstreetdevelopment\fpdi\visual\Tfpdf;
 
 use setasign\Fpdi\Tfpdf\FpdfTpl;
 

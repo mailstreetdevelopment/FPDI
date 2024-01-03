@@ -8,7 +8,7 @@
  * @license   http://opensource.org/licenses/mit-license The MIT License
  */
 
-namespace setasign\Fpdi\PdfParser\Type;
+namespace mailstreetdevelopment\fpdi\PdfParser\Type;
 
 /**
  * Class representing a PDF null object

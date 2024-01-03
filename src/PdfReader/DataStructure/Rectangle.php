@@ -8,7 +8,7 @@
  * @license   http://opensource.org/licenses/mit-license The MIT License
  */
 
-namespace setasign\Fpdi\PdfReader\DataStructure;
+namespace mailstreetdevelopment\fpdi\PdfReader\DataStructure;
 
 use setasign\Fpdi\Math\Vector;
 use setasign\Fpdi\PdfParser\CrossReference\CrossReferenceException;

@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\unit;
+namespace mailstreetdevelopment\fpdi\unit;
 
 use setasign\Fpdi\Fpdi;
 

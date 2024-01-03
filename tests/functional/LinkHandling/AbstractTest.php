@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\functional\LinkHandling;
+namespace mailstreetdevelopment\fpdi\functional\LinkHandling;
 
 use PHPUnit\Framework\TestCase;
 use setasign\Fpdi\functional\PdfTypeDumper;

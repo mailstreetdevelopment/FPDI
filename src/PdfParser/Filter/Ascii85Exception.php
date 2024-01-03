@@ -8,7 +8,7 @@
  * @license   http://opensource.org/licenses/mit-license The MIT License
  */
 
-namespace setasign\Fpdi\PdfParser\Filter;
+namespace mailstreetdevelopment\fpdi\PdfParser\Filter;
 
 /**
  * Exception for Ascii85 filter class

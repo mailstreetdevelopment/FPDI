@@ -11,7 +11,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "setasign\\Fpdi\\": "src/"
+            "mailstreetdevelopment\\fpdi\\": "src/"
         }
     },
     "require": {
@@ -33,9 +33,6 @@
             "homepage": "https://www.setasign.com"
         }
     ],
-    "suggest": {
-        "setasign/fpdf": "FPDI will extend this class but as it is also possible to use TCPDF or tFPDF as an alternative. There's no fixed dependency configured."
-    },
     "require-dev": {
         "phpunit/phpunit": "~5.7",
         "setasign/fpdf": "~1.8.6",
@@ -45,7 +42,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "setasign\\Fpdi\\": "tests/"
+            "mailstreetdevelopment\\fpdi\\": "tests/"
         }
     }
 }

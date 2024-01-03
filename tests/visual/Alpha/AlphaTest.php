@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\visual\Alpha;
+namespace mailstreetdevelopment\fpdi\visual\Alpha;
 
 use setasign\Fpdi\visual\VisualTestCase;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace setasign\Fpdi\functional\PdfParser\Filter;
+namespace mailstreetdevelopment\fpdi\functional\PdfParser\Filter;
 
 use PHPUnit\Framework\TestCase;
 use setasign\Fpdi\PdfParser\Filter\AsciiHex;
