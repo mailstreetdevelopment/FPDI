@@ -10,7 +10,7 @@
 
 namespace mailstreetdevelopment\fpdi\PdfParser\Type;
 
-use setasign\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
 
 /**
  * Class representing a PDF string object

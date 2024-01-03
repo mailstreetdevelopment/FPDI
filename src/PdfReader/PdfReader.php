@@ -10,16 +10,16 @@
 
 namespace mailstreetdevelopment\fpdi\PdfReader;
 
-use setasign\Fpdi\PdfParser\CrossReference\CrossReferenceException;
-use setasign\Fpdi\PdfParser\PdfParser;
-use setasign\Fpdi\PdfParser\PdfParserException;
-use setasign\Fpdi\PdfParser\Type\PdfArray;
-use setasign\Fpdi\PdfParser\Type\PdfDictionary;
-use setasign\Fpdi\PdfParser\Type\PdfIndirectObject;
-use setasign\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
-use setasign\Fpdi\PdfParser\Type\PdfNumeric;
-use setasign\Fpdi\PdfParser\Type\PdfType;
-use setasign\Fpdi\PdfParser\Type\PdfTypeException;
+use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\CrossReferenceException;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParserException;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfArray;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObject;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfType;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfTypeException;
 
 /**
  * A PDF reader class

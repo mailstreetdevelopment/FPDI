@@ -3,8 +3,8 @@
 namespace mailstreetdevelopment\fpdi\functional\PdfParser\Type;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\PdfParser\StreamReader;
-use setasign\Fpdi\PdfParser\Type\PdfString;
+use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfString;
 
 class PdfStringTest extends TestCase
 {

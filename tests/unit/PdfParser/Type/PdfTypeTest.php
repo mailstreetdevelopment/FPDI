@@ -3,11 +3,11 @@
 namespace mailstreetdevelopment\fpdi\unit\PdfParser\Type;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\PdfParser\PdfParser;
-use setasign\Fpdi\PdfParser\Type\PdfIndirectObject;
-use setasign\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
-use setasign\Fpdi\PdfParser\Type\PdfString;
-use setasign\Fpdi\PdfParser\Type\PdfType;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObject;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfString;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfType;
 
 class PdfTypeTest extends TestCase
 {

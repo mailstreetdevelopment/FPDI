@@ -3,13 +3,13 @@
 namespace mailstreetdevelopment\fpdi\functional\PdfParser\Type;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\PdfParser\PdfParser;
-use setasign\Fpdi\PdfParser\StreamReader;
-use setasign\Fpdi\PdfParser\Type\PdfDictionary;
-use setasign\Fpdi\PdfParser\Type\PdfHexString;
-use setasign\Fpdi\PdfParser\Type\PdfName;
-use setasign\Fpdi\PdfParser\Type\PdfNumeric;
-use setasign\Fpdi\PdfParser\Type\PdfString;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfHexString;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfName;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfString;
 
 class PdfDictionaryTest extends TestCase
 {

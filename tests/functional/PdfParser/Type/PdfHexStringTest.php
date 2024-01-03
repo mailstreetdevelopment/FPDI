@@ -3,9 +3,9 @@
 namespace mailstreetdevelopment\fpdi\functional\PdfParser\Type;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\PdfParser\StreamReader;
-use setasign\Fpdi\PdfParser\Tokenizer;
-use setasign\Fpdi\PdfParser\Type\PdfHexString;
+use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\Fpdi\PdfParser\Tokenizer;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfHexString;
 
 class PdfHexStringTest extends TestCase
 {

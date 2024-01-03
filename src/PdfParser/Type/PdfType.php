@@ -10,9 +10,9 @@
 
 namespace mailstreetdevelopment\fpdi\PdfParser\Type;
 
-use setasign\Fpdi\PdfParser\CrossReference\CrossReferenceException;
-use setasign\Fpdi\PdfParser\PdfParser;
-use setasign\Fpdi\PdfParser\PdfParserException;
+use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\CrossReferenceException;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParserException;
 
 /**
  * A class defining a PDF data type

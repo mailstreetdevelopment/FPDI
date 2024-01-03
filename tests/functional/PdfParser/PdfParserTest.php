@@ -3,22 +3,22 @@
 namespace mailstreetdevelopment\fpdi\functional\PdfParser;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\PdfParser\CrossReference\CrossReferenceException;
-use setasign\Fpdi\PdfParser\PdfParser;
-use setasign\Fpdi\PdfParser\PdfParserException;
-use setasign\Fpdi\PdfParser\StreamReader;
-use setasign\Fpdi\PdfParser\Type\PdfArray;
-use setasign\Fpdi\PdfParser\Type\PdfBoolean;
-use setasign\Fpdi\PdfParser\Type\PdfDictionary;
-use setasign\Fpdi\PdfParser\Type\PdfHexString;
-use setasign\Fpdi\PdfParser\Type\PdfIndirectObject;
-use setasign\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
-use setasign\Fpdi\PdfParser\Type\PdfName;
-use setasign\Fpdi\PdfParser\Type\PdfNull;
-use setasign\Fpdi\PdfParser\Type\PdfNumeric;
-use setasign\Fpdi\PdfParser\Type\PdfString;
-use setasign\Fpdi\PdfParser\Type\PdfToken;
-use setasign\Fpdi\PdfParser\Type\PdfTypeException;
+use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\CrossReferenceException;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParserException;
+use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfArray;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfBoolean;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfHexString;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObject;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfName;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNull;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfString;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfToken;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfTypeException;
 
 class PdfParserTest extends TestCase
 {

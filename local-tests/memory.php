@@ -4,7 +4,7 @@
  */
 set_time_limit(90);
 
-use setasign\Fpdi;
+use mailstreetdevelopment\Fpdi;
 
 require_once '../vendor/autoload.php';
 

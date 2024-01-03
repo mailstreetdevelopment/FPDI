@@ -3,14 +3,14 @@
 namespace mailstreetdevelopment\fpdi\unit\PdfReader\DataStructure;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\PdfParser\CrossReference\CrossReference;
-use setasign\Fpdi\PdfParser\PdfParser;
-use setasign\Fpdi\PdfParser\StreamReader;
-use setasign\Fpdi\PdfParser\Type\PdfArray;
-use setasign\Fpdi\PdfParser\Type\PdfIndirectObject;
-use setasign\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
-use setasign\Fpdi\PdfParser\Type\PdfNumeric;
-use setasign\Fpdi\PdfReader\DataStructure\Rectangle;
+use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\CrossReference;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfArray;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObject;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\Fpdi\PdfReader\DataStructure\Rectangle;
 
 class RectangleTest extends TestCase
 {

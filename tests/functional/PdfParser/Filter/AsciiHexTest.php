@@ -3,7 +3,7 @@
 namespace mailstreetdevelopment\fpdi\functional\PdfParser\Filter;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\PdfParser\Filter\AsciiHex;
+use mailstreetdevelopment\Fpdi\PdfParser\Filter\AsciiHex;
 
 class AsciiHexTest extends TestCase
 {

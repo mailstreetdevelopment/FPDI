@@ -104,12 +104,12 @@ A simple example, that imports a single page and places this onto a new created 
 
 ```php
 <?php
-use setasign\Fpdi\Fpdi;
+use mailstreetdevelopment\Fpdi\Fpdi;
 // or for usage with TCPDF:
-// use setasign\Fpdi\Tcpdf\Fpdi;
+// use mailstreetdevelopment\Fpdi\Tcpdf\Fpdi;
 
 // or for usage with tFPDF:
-// use setasign\Fpdi\Tfpdf\Fpdi;
+// use mailstreetdevelopment\Fpdi\Tfpdf\Fpdi;
 
 // setup the autoload function
 require_once('vendor/autoload.php');

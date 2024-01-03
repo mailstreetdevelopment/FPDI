@@ -2,7 +2,7 @@
 
 namespace mailstreetdevelopment\fpdi\unit;
 
-use setasign\Fpdi\Fpdi;
+use mailstreetdevelopment\Fpdi\Fpdi;
 
 require_once __DIR__ . '/FpdiTraitTest.php';
 

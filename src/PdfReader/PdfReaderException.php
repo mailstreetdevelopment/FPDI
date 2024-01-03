@@ -10,7 +10,7 @@
 
 namespace mailstreetdevelopment\fpdi\PdfReader;
 
-use setasign\Fpdi\FpdiException;
+use mailstreetdevelopment\Fpdi\FpdiException;
 
 /**
  * Exception for the pdf reader class

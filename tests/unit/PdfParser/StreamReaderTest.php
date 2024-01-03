@@ -3,7 +3,7 @@
 namespace mailstreetdevelopment\fpdi\unit\PdfParser;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
 
 class StreamReaderTest extends TestCase
 {

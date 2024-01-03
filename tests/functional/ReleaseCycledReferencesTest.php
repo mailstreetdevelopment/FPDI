@@ -3,7 +3,7 @@
 namespace mailstreetdevelopment\fpdi\functional;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\Fpdi;
+use mailstreetdevelopment\Fpdi\Fpdi;
 
 class ReleaseCycledReferencesTest extends TestCase
 {

@@ -10,8 +10,8 @@
 
 namespace mailstreetdevelopment\fpdi\PdfParser\CrossReference;
 
-use setasign\Fpdi\PdfParser\PdfParser;
-use setasign\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
 
 /**
  * Class LineReader

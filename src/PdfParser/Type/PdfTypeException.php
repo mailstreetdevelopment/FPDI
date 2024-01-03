@@ -10,7 +10,7 @@
 
 namespace mailstreetdevelopment\fpdi\PdfParser\Type;
 
-use setasign\Fpdi\PdfParser\PdfParserException;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParserException;
 
 /**
  * Exception class for pdf type classes

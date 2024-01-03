@@ -10,14 +10,14 @@
 
 namespace mailstreetdevelopment\fpdi\PdfReader\DataStructure;
 
-use setasign\Fpdi\Math\Vector;
-use setasign\Fpdi\PdfParser\CrossReference\CrossReferenceException;
-use setasign\Fpdi\PdfParser\PdfParser;
-use setasign\Fpdi\PdfParser\PdfParserException;
-use setasign\Fpdi\PdfParser\Type\PdfArray;
-use setasign\Fpdi\PdfParser\Type\PdfNumeric;
-use setasign\Fpdi\PdfParser\Type\PdfType;
-use setasign\Fpdi\PdfParser\Type\PdfTypeException;
+use mailstreetdevelopment\Fpdi\Math\Vector;
+use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\CrossReferenceException;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParserException;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfArray;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfType;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfTypeException;
 
 /**
  * Class representing a rectangle

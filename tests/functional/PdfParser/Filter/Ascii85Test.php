@@ -3,8 +3,8 @@
 namespace mailstreetdevelopment\fpdi\functional\PdfParser\Filter;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\PdfParser\Filter\Ascii85;
-use setasign\Fpdi\PdfParser\Filter\Ascii85Exception;
+use mailstreetdevelopment\Fpdi\PdfParser\Filter\Ascii85;
+use mailstreetdevelopment\Fpdi\PdfParser\Filter\Ascii85Exception;
 
 class Ascii85Test extends TestCase
 {

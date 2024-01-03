@@ -3,9 +3,9 @@
 namespace mailstreetdevelopment\fpdi\unit\PdfParser\CrossReference;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\PdfParser\CrossReference\CrossReference;
-use setasign\Fpdi\PdfParser\CrossReference\CrossReferenceException;
-use setasign\Fpdi\PdfParser\CrossReference\FixedReader;
+use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\CrossReference;
+use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\CrossReferenceException;
+use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\FixedReader;
 
 class CrossReferenceTest extends TestCase
 {

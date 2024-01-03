@@ -3,10 +3,10 @@
 namespace mailstreetdevelopment\fpdi\functional\PdfReader;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\PdfParser\PdfParser;
-use setasign\Fpdi\PdfParser\StreamReader;
-use setasign\Fpdi\PdfReader\DataStructure\Rectangle;
-use setasign\Fpdi\PdfReader\PdfReader;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\Fpdi\PdfReader\DataStructure\Rectangle;
+use mailstreetdevelopment\Fpdi\PdfReader\PdfReader;
 
 class PageTest extends TestCase
 {

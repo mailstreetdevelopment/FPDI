@@ -10,13 +10,13 @@
 
 namespace mailstreetdevelopment\fpdi\PdfParser\CrossReference;
 
-use setasign\Fpdi\PdfParser\PdfParser;
-use setasign\Fpdi\PdfParser\Type\PdfDictionary;
-use setasign\Fpdi\PdfParser\Type\PdfIndirectObject;
-use setasign\Fpdi\PdfParser\Type\PdfNumeric;
-use setasign\Fpdi\PdfParser\Type\PdfStream;
-use setasign\Fpdi\PdfParser\Type\PdfToken;
-use setasign\Fpdi\PdfParser\Type\PdfTypeException;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObject;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfStream;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfToken;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfTypeException;
 
 /**
  * Class CrossReference

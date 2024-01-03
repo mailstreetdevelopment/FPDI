@@ -4,7 +4,7 @@
  * into a page, that also uses such graphic state (handling of $groupXObject parameter of the importPage()).
  */
 
-use setasign\Fpdi;
+use mailstreetdevelopment\Fpdi;
 
 require_once '../vendor/autoload.php';
 

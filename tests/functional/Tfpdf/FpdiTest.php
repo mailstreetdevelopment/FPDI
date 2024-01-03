@@ -3,13 +3,13 @@
 namespace mailstreetdevelopment\fpdi\functional\Tfpdf;
 
 use PHPUnit\Framework\TestCase;
-use setasign\Fpdi\PdfParser\CrossReference\CrossReferenceException;
-use setasign\Fpdi\PdfParser\PdfParser;
-use setasign\Fpdi\PdfParser\StreamReader;
-use setasign\Fpdi\PdfParser\Type\PdfNull;
-use setasign\Fpdi\PdfParser\Type\PdfType;
-use setasign\Fpdi\PdfReader\PdfReader;
-use setasign\Fpdi\Tfpdf\Fpdi;
+use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\CrossReferenceException;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNull;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfType;
+use mailstreetdevelopment\Fpdi\PdfReader\PdfReader;
+use mailstreetdevelopment\Fpdi\Tfpdf\Fpdi;
 
 class FpdiTest extends TestCase
 {

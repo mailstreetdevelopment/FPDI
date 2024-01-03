@@ -2,7 +2,7 @@
 
 namespace mailstreetdevelopment\fpdi\visual\Tfpdf;
 
-use setasign\Fpdi\Tfpdf\FpdfTpl;
+use mailstreetdevelopment\Fpdi\Tfpdf\FpdfTpl;
 
 class FpdfTplTest extends \setasign\Fpdi\visual\FpdfTplTest
 {

@@ -1,9 +1,9 @@
 <?php
 
-use setasign\Fpdi\Fpdi;
-use setasign\Fpdi\PdfParser\Type\PdfDictionary;
-use setasign\Fpdi\PdfParser\Type\PdfNull;
-use setasign\Fpdi\PdfParser\Type\PdfType;
+use mailstreetdevelopment\Fpdi\Fpdi;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNull;
+use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfType;
 
 require_once '../vendor/autoload.php';
 

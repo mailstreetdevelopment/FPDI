@@ -3,7 +3,7 @@
  * Let's simply try tFPDF with some unicode text and an imported page via FPDI.
  */
 
-use setasign\Fpdi\Tfpdf\Fpdi;
+use mailstreetdevelopment\Fpdi\Tfpdf\Fpdi;
 
 require_once '../vendor/autoload.php';
 

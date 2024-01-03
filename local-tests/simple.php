@@ -2,7 +2,7 @@
 /**
  * Simply import all pages and different bounding boxes from different PDF documents.
  */
-use setasign\Fpdi;
+use mailstreetdevelopment\Fpdi;
 
 require_once '../vendor/autoload.php';
 

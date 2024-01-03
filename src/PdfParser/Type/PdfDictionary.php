@@ -10,9 +10,9 @@
 
 namespace mailstreetdevelopment\fpdi\PdfParser\Type;
 
-use setasign\Fpdi\PdfParser\PdfParser;
-use setasign\Fpdi\PdfParser\StreamReader;
-use setasign\Fpdi\PdfParser\Tokenizer;
+use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\Fpdi\PdfParser\Tokenizer;
 
 /**
  * Class representing a PDF dictionary object
