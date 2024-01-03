@@ -26,8 +26,7 @@ To use FPDI with FPDF include following in your composer.json file:
 ```json
 {
     "require": {
-        "setasign/fpdf": "1.8.*",
-        "setasign/fpdi": "^2.5"
+        "mailstreetdevelopment/fpdi": "dev-master",
     }
 }
 ```
