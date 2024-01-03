@@ -2,8 +2,8 @@
 
 namespace mailstreetdevelopment\fpdi\unit\Tfpdf;
 
-use mailstreetdevelopment\Fpdi\Tfpdf\Fpdi;
-use mailstreetdevelopment\Fpdi\unit\FpdiTraitTest;
+use mailstreetdevelopment\fpdi\Tfpdf\Fpdi;
+use mailstreetdevelopment\fpdi\unit\FpdiTraitTest;
 
 class FpdiTest extends FpdiTraitTest
 {

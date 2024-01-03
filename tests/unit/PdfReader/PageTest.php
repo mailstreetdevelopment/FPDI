@@ -3,17 +3,17 @@
 namespace mailstreetdevelopment\fpdi\unit\PdfReader;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfArray;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObject;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfName;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfStream;
-use mailstreetdevelopment\Fpdi\PdfReader\DataStructure\Rectangle;
-use mailstreetdevelopment\Fpdi\PdfReader\Page;
-use mailstreetdevelopment\Fpdi\PdfReader\PageBoundaries;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfArray;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfIndirectObject;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfIndirectObjectReference;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfName;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfStream;
+use mailstreetdevelopment\fpdi\PdfReader\DataStructure\Rectangle;
+use mailstreetdevelopment\fpdi\PdfReader\Page;
+use mailstreetdevelopment\fpdi\PdfReader\PageBoundaries;
 
 class PageTest extends TestCase
 {

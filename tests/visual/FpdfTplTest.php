@@ -2,7 +2,7 @@
 
 namespace mailstreetdevelopment\fpdi\visual;
 
-use mailstreetdevelopment\Fpdi\FpdfTpl;
+use mailstreetdevelopment\fpdi\FpdfTpl;
 
 class FpdfTplTest extends VisualTestCase
 {

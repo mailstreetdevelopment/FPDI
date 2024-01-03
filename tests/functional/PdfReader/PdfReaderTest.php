@@ -4,18 +4,18 @@ namespace mailstreetdevelopment\fpdi\functional\PdfReader;
 
 use PHPUnit\Framework\TestCase;
 use Prophecy\Exception\InvalidArgumentException;
-use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\CrossReferenceException;
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
-use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfArray;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfBoolean;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObject;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfName;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfType;
-use mailstreetdevelopment\Fpdi\PdfReader\PdfReader;
+use mailstreetdevelopment\fpdi\PdfParser\CrossReference\CrossReferenceException;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfArray;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfBoolean;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfIndirectObject;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfIndirectObjectReference;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfName;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfType;
+use mailstreetdevelopment\fpdi\PdfReader\PdfReader;
 
 class PdfReaderTest extends TestCase
 {

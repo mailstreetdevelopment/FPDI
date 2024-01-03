@@ -3,11 +3,11 @@
 namespace mailstreetdevelopment\fpdi\functional\LinkHandling;
 
 use ReflectionClass;
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
-use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
-use mailstreetdevelopment\Fpdi\PdfReader\PageBoundaries;
-use mailstreetdevelopment\Fpdi\PdfReader\PdfReader;
-use mailstreetdevelopment\Fpdi\Tcpdf\Fpdi;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\fpdi\PdfReader\PageBoundaries;
+use mailstreetdevelopment\fpdi\PdfReader\PdfReader;
+use mailstreetdevelopment\fpdi\Tcpdf\Fpdi;
 
 class TcpdfTest extends \setasign\Fpdi\functional\LinkHandling\AbstractTest
 {

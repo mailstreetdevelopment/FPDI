@@ -3,10 +3,10 @@
 namespace mailstreetdevelopment\fpdi\unit\PdfParser\Type;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfName;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfString;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfToken;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfTypeException;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfName;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfString;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfToken;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfTypeException;
 
 class PdfTokenTest extends TestCase
 {

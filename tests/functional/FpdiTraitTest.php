@@ -3,20 +3,20 @@
 namespace mailstreetdevelopment\fpdi\functional;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\Fpdi;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfArray;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfBoolean;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfHexString;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObject;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfName;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNull;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfStream;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfString;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfToken;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfType;
+use mailstreetdevelopment\fpdi\Fpdi;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfArray;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfBoolean;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfHexString;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfIndirectObject;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfIndirectObjectReference;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfName;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfNull;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfStream;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfString;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfToken;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfType;
 
 class FpdiTraitTest extends TestCase
 {

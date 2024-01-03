@@ -3,10 +3,10 @@
 namespace mailstreetdevelopment\fpdi\unit;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\Fpdi;
-use mailstreetdevelopment\Fpdi\FpdiTrait;
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
-use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\fpdi\Fpdi;
+use mailstreetdevelopment\fpdi\FpdiTrait;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\fpdi\PdfParser\StreamReader;
 
 abstract class FpdiTraitTest extends TestCase
 {

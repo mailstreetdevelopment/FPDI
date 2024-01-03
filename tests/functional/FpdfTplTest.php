@@ -3,15 +3,15 @@
 namespace mailstreetdevelopment\fpdi\functional;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\FpdfTpl;
-use mailstreetdevelopment\Fpdi\Fpdi;
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
-use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfName;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfStream;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfType;
-use mailstreetdevelopment\Fpdi\PdfReader\PdfReader;
+use mailstreetdevelopment\fpdi\FpdfTpl;
+use mailstreetdevelopment\fpdi\Fpdi;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfName;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfStream;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfType;
+use mailstreetdevelopment\fpdi\PdfReader\PdfReader;
 
 class FpdfTplTest extends TestCase
 {

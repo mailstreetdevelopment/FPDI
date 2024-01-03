@@ -2,10 +2,10 @@
 
 namespace mailstreetdevelopment\fpdi\functional;
 
-use mailstreetdevelopment\Fpdi\FpdfTrait;
-use mailstreetdevelopment\Fpdi\FpdiTrait;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObject;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfType;
+use mailstreetdevelopment\fpdi\FpdfTrait;
+use mailstreetdevelopment\fpdi\FpdiTrait;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfIndirectObject;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfType;
 
 /**
  * This class is used for testing methods of the FpdiTrait trait.

@@ -10,7 +10,7 @@
 
 namespace mailstreetdevelopment\fpdi\Tfpdf;
 
-use mailstreetdevelopment\Fpdi\FpdfTplTrait;
+use mailstreetdevelopment\fpdi\FpdfTplTrait;
 
 /**
  * Class FpdfTpl

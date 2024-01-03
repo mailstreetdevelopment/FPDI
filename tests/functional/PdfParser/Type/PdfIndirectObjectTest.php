@@ -3,16 +3,16 @@
 namespace mailstreetdevelopment\fpdi\functional\PdfParser\Type;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
-use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfBoolean;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObject;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNull;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfStream;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfToken;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfBoolean;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfIndirectObject;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfIndirectObjectReference;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfNull;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfStream;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfToken;
 
 class PdfIndirectObjectTest extends TestCase
 {

@@ -3,9 +3,9 @@
 namespace mailstreetdevelopment\fpdi\unit\PdfParser\Type;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfBoolean;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfName;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfTypeException;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfBoolean;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfName;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfTypeException;
 
 class PdfBooleanTest extends TestCase
 {

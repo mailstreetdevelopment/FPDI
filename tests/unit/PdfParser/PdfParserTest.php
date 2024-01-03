@@ -3,12 +3,12 @@
 namespace mailstreetdevelopment\fpdi\unit\PdfParser;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\CrossReference;
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObject;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObjectReference;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfName;
+use mailstreetdevelopment\fpdi\PdfParser\CrossReference\CrossReference;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfIndirectObject;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfIndirectObjectReference;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfName;
 
 class PdfParserTest extends TestCase
 {

@@ -3,17 +3,17 @@
 namespace mailstreetdevelopment\fpdi\functional\LinkHandling;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\functional\PdfTypeDumper;
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
-use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfArray;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfString;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfType;
-use mailstreetdevelopment\Fpdi\PdfReader\DataStructure\Rectangle;
-use mailstreetdevelopment\Fpdi\PdfReader\PageBoundaries;
-use mailstreetdevelopment\Fpdi\PdfReader\PdfReader;
+use mailstreetdevelopment\fpdi\functional\PdfTypeDumper;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfArray;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfString;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfType;
+use mailstreetdevelopment\fpdi\PdfReader\DataStructure\Rectangle;
+use mailstreetdevelopment\fpdi\PdfReader\PageBoundaries;
+use mailstreetdevelopment\fpdi\PdfReader\PdfReader;
 
 /**
  * Tests of link handling of the importPage() and useTemplate() methods.

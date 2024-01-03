@@ -10,16 +10,16 @@
 
 namespace mailstreetdevelopment\fpdi\PdfParser\Type;
 
-use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\CrossReferenceException;
-use mailstreetdevelopment\Fpdi\PdfParser\Filter\Ascii85;
-use mailstreetdevelopment\Fpdi\PdfParser\Filter\AsciiHex;
-use mailstreetdevelopment\Fpdi\PdfParser\Filter\FilterException;
-use mailstreetdevelopment\Fpdi\PdfParser\Filter\Flate;
-use mailstreetdevelopment\Fpdi\PdfParser\Filter\Lzw;
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParserException;
-use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
-use mailstreetdevelopment\FpdiPdfParser\PdfParser\Filter\Predictor;
+use mailstreetdevelopment\fpdi\PdfParser\CrossReference\CrossReferenceException;
+use mailstreetdevelopment\fpdi\PdfParser\Filter\Ascii85;
+use mailstreetdevelopment\fpdi\PdfParser\Filter\AsciiHex;
+use mailstreetdevelopment\fpdi\PdfParser\Filter\FilterException;
+use mailstreetdevelopment\fpdi\PdfParser\Filter\Flate;
+use mailstreetdevelopment\fpdi\PdfParser\Filter\Lzw;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParserException;
+use mailstreetdevelopment\fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\fpdiPdfParser\PdfParser\Filter\Predictor;
 
 /**
  * Class representing a PDF stream object

@@ -3,8 +3,8 @@
 namespace mailstreetdevelopment\fpdi\functional\PdfParser\Filter;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\PdfParser\Filter\Flate;
-use mailstreetdevelopment\Fpdi\PdfParser\Filter\FlateException;
+use mailstreetdevelopment\fpdi\PdfParser\Filter\Flate;
+use mailstreetdevelopment\fpdi\PdfParser\Filter\FlateException;
 
 class FlateTest extends TestCase
 {

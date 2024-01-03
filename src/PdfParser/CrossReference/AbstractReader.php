@@ -10,10 +10,10 @@
 
 namespace mailstreetdevelopment\fpdi\PdfParser\CrossReference;
 
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParser;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfToken;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfTypeException;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParser;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfToken;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfTypeException;
 
 /**
  * Abstract class for cross-reference reader classes.

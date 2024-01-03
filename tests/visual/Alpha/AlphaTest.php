@@ -2,7 +2,7 @@
 
 namespace mailstreetdevelopment\fpdi\visual\Alpha;
 
-use mailstreetdevelopment\Fpdi\visual\VisualTestCase;
+use mailstreetdevelopment\fpdi\visual\VisualTestCase;
 
 class AlphaTest extends VisualTestCase
 {

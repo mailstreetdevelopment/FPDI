@@ -3,7 +3,7 @@
 namespace mailstreetdevelopment\fpdi\unit\PdfReader;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\PdfReader\PageBoundaries;
+use mailstreetdevelopment\fpdi\PdfReader\PageBoundaries;
 
 class PageBoundariesTest extends TestCase
 {

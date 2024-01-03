@@ -10,8 +10,8 @@
 
 namespace mailstreetdevelopment\fpdi;
 
-use mailstreetdevelopment\Fpdi\Math\Matrix;
-use mailstreetdevelopment\Fpdi\Math\Vector;
+use mailstreetdevelopment\fpdi\Math\Matrix;
+use mailstreetdevelopment\fpdi\Math\Vector;
 
 /**
  * A simple graphic state class which holds the current transformation matrix.

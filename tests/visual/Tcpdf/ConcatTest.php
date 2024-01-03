@@ -2,8 +2,8 @@
 
 namespace mailstreetdevelopment\fpdi\visual\Tcpdf;
 
-use mailstreetdevelopment\Fpdi\PdfReader\PageBoundaries;
-use mailstreetdevelopment\Fpdi\Tcpdf\Fpdi;
+use mailstreetdevelopment\fpdi\PdfReader\PageBoundaries;
+use mailstreetdevelopment\fpdi\Tcpdf\Fpdi;
 
 class ConcatTest extends \setasign\Fpdi\visual\ConcatTest
 {

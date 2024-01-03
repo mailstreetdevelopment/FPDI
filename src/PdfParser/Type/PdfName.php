@@ -10,8 +10,8 @@
 
 namespace mailstreetdevelopment\fpdi\PdfParser\Type;
 
-use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
-use mailstreetdevelopment\Fpdi\PdfParser\Tokenizer;
+use mailstreetdevelopment\fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\fpdi\PdfParser\Tokenizer;
 
 /**
  * Class representing a PDF name object

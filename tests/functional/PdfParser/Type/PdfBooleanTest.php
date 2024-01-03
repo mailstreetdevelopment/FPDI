@@ -3,8 +3,8 @@
 namespace mailstreetdevelopment\fpdi\functional\PdfParser\Type;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfBoolean;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfBoolean;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfNumeric;
 
 class PdfBooleanTest extends TestCase
 {

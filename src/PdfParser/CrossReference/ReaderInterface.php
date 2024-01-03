@@ -10,7 +10,7 @@
 
 namespace mailstreetdevelopment\fpdi\PdfParser\CrossReference;
 
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfDictionary;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfDictionary;
 
 /**
  * ReaderInterface for cross-reference readers.

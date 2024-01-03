@@ -10,7 +10,7 @@
 
 namespace mailstreetdevelopment\fpdi\PdfParser\Filter;
 
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParserException;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParserException;
 
 /**
  * Exception for filters

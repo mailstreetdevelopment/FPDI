@@ -3,9 +3,9 @@
 namespace mailstreetdevelopment\fpdi\unit\PdfParser\Type;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfHexString;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfName;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfTypeException;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfHexString;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfName;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfTypeException;
 
 class PdfHexStringTest extends TestCase
 {

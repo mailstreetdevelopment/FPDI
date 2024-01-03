@@ -10,7 +10,7 @@
 
 namespace mailstreetdevelopment\fpdi\PdfParser\CrossReference;
 
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParserException;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParserException;
 
 /**
  * Exception used by the CrossReference and Reader classes.

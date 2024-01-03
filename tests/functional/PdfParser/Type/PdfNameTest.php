@@ -3,9 +3,9 @@
 namespace mailstreetdevelopment\fpdi\functional\PdfParser\Type;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\PdfParser\StreamReader;
-use mailstreetdevelopment\Fpdi\PdfParser\Tokenizer;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfName;
+use mailstreetdevelopment\fpdi\PdfParser\StreamReader;
+use mailstreetdevelopment\fpdi\PdfParser\Tokenizer;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfName;
 
 class PdfNameTest extends TestCase
 {

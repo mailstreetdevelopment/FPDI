@@ -3,7 +3,7 @@
 namespace mailstreetdevelopment\fpdi\unit;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\FpdfTpl;
+use mailstreetdevelopment\fpdi\FpdfTpl;
 
 require_once __DIR__ . '/FpdiTraitTest.php';
 

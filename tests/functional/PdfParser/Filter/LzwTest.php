@@ -3,8 +3,8 @@
 namespace mailstreetdevelopment\fpdi\functional\PdfParser\Filter;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\PdfParser\Filter\Lzw;
-use mailstreetdevelopment\Fpdi\PdfParser\Filter\LzwException;
+use mailstreetdevelopment\fpdi\PdfParser\Filter\Lzw;
+use mailstreetdevelopment\fpdi\PdfParser\Filter\LzwException;
 
 class LzwTest extends TestCase
 {

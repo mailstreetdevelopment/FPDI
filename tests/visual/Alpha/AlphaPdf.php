@@ -2,7 +2,7 @@
 
 namespace mailstreetdevelopment\fpdi\visual\Alpha;
 
-use mailstreetdevelopment\Fpdi;
+use mailstreetdevelopment\fpdi;
 
 class AlphaPdf extends Fpdi\Fpdi
 {

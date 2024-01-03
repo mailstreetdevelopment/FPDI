@@ -2,7 +2,7 @@
 
 namespace mailstreetdevelopment\fpdi\functional\LinkHandling;
 
-use mailstreetdevelopment\Fpdi\Fpdi;
+use mailstreetdevelopment\fpdi\Fpdi;
 
 class FpdiTest extends \setasign\Fpdi\functional\LinkHandling\AbstractTest
 {

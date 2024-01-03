@@ -2,8 +2,8 @@
 
 namespace mailstreetdevelopment\fpdi\visual;
 
-use mailstreetdevelopment\Fpdi\Fpdi;
-use mailstreetdevelopment\Fpdi\PdfReader\PageBoundaries;
+use mailstreetdevelopment\fpdi\Fpdi;
+use mailstreetdevelopment\fpdi\PdfReader\PageBoundaries;
 
 class ConcatTest extends VisualTestCase
 {

@@ -10,11 +10,11 @@
 
 namespace mailstreetdevelopment\fpdi;
 
-use mailstreetdevelopment\Fpdi\PdfParser\CrossReference\CrossReferenceException;
-use mailstreetdevelopment\Fpdi\PdfParser\PdfParserException;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfIndirectObject;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNull;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfType;
+use mailstreetdevelopment\fpdi\PdfParser\CrossReference\CrossReferenceException;
+use mailstreetdevelopment\fpdi\PdfParser\PdfParserException;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfIndirectObject;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfNull;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfType;
 
 /**
  * This trait is used for the implementation of FPDI in FPDF and tFPDF.

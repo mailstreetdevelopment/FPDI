@@ -3,9 +3,9 @@
 namespace mailstreetdevelopment\fpdi\unit\PdfParser\Type;
 
 use PHPUnit\Framework\TestCase;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfNumeric;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfString;
-use mailstreetdevelopment\Fpdi\PdfParser\Type\PdfTypeException;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfNumeric;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfString;
+use mailstreetdevelopment\fpdi\PdfParser\Type\PdfTypeException;
 
 class PdfNumericTest extends TestCase
 {

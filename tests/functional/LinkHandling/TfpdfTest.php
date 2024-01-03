@@ -2,7 +2,7 @@
 
 namespace mailstreetdevelopment\fpdi\functional\LinkHandling;
 
-use mailstreetdevelopment\Fpdi\Tfpdf\Fpdi;
+use mailstreetdevelopment\fpdi\Tfpdf\Fpdi;
 
 class TfpdfTest extends \setasign\Fpdi\functional\LinkHandling\AbstractTest
 {
