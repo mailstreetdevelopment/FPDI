@@ -48,4 +48,10 @@
             "setasign\\Fpdi\\": "tests/"
         }
     }
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/mailstreetdevelopment/FPDI"
+      }
+    ],
 }
